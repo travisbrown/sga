@@ -38,7 +38,7 @@ Processed 100000 jobs from 1000 clients in 146605 ms!
 ```
 
 In a handful of unscientific benchmarks like this, Akka is consistently
-two-and-a-half to three times faster than Node.js.
+two-and-a-half to three times faster than Node.js on my quad-core processor.
 
 Warning!
 --------
